@@ -1,0 +1,47 @@
+.wrapper{
+	width: 50%;
+	margin:0 auto;
+	border: 5px solid #ddd;
+
+
+}
+
+label{
+	font-size: 20px;
+}
+
+.first_name, .last_name, .Email_address, .Password, .Confirm_Password{
+
+	width: 90%;
+	height: 25px;
+	padding: 5px;
+	font-size: 15px;
+}
+
+.messages{
+	font-size: 18px
+	padding: 10px;
+}
+
+table{
+	width: 80%;
+	border: 1px solid black;
+
+}
+
+th, td{
+	font-size: 25px;
+	border: 1px solid black;
+	text-align: center;
+	
+}
+.h1{
+	background-color: solid yellow;
+}
+
+footer {
+	text-align: center;
+	padding: 5px;
+	background-color: green;
+	color: black;
+}
